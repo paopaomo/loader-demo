@@ -1,0 +1,25 @@
+{
+  "name": "loader-demo",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paopaomo/loader-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paopaomo/loader-demo/issues"
+  },
+  "homepage": "https://github.com/paopaomo/loader-demo#readme"
+}
